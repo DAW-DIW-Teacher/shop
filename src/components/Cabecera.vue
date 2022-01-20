@@ -1,7 +1,7 @@
 <template>
   <section id="cabecera">
       <div class="container">
-        <img src="../assets/logo.png" alt="Logo de la empresa">
+        <h1>Ejemplo de prueba</h1>
       </div>
   </section>
 </template>
